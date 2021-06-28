@@ -1,0 +1,17 @@
+# ninja log v5
+1	675	6461820588616166	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Obj/asm.o	843db09b23fd53f
+684	1386	6461820595621017	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Exe/Laboratorio_01.out	22b78ad9ec9ad106
+1	75	6461845420563329	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Obj/asm.o	843db09b23fd53f
+83	294	6461845422663103	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Exe/Laboratorio_01.out	22b78ad9ec9ad106
+2	75	6461845710651051	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Obj/asm.o	843db09b23fd53f
+84	261	6461845712550848	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Exe/Laboratorio_01.out	22b78ad9ec9ad106
+1	44	6461846179869670	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Obj/asm.o	843db09b23fd53f
+52	217	6461846181569488	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Exe/Laboratorio_01.out	22b78ad9ec9ad106
+1	72	6461846358121864	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Obj/asm.o	843db09b23fd53f
+81	256	6461846359821676	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Exe/Laboratorio_01.out	22b78ad9ec9ad106
+1	804	6466234151073695	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Obj/asm.o	843db09b23fd53f
+818	1602	6466234159176489	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Exe/Laboratorio_01.out	22b78ad9ec9ad106
+1	29	6466234652502444	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Obj/asm.o	843db09b23fd53f
+39	175	6466234653802293	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Exe/Laboratorio_01.out	22b78ad9ec9ad106
+2	41	6466235226783334	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Obj/asm.o	843db09b23fd53f
+51	228	6466235228520094	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Laboratorio_01/Debug/Exe/Laboratorio_01.out	22b78ad9ec9ad106
